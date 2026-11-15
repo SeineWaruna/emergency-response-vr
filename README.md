@@ -1,4 +1,4 @@
-# SECOND CHANCE
+# CPR Trainer Specs
 
 Browser based AR response simulator for a hackathon demonstration with CPR mannequins and AED trainers. This is **not a medical device** or a live emergency response service.
 
